@@ -4,7 +4,7 @@ fs.watch( 'target.txt' , () => console.log('File changed!'));
 console.log('Now watching target.txt for changes...');
 
 /** 
- * Página 12 do livro Node.js 8 The Right Way
+ * Página 12 - 14 do livro Node.js 8 The Right Way
  * 
  * O programa começa com a string 'use strict' no topo. Isso faz com que o programa
  * para ser executado em modo estrito, um recurso introduzido na versão ECMAScript.
